@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lydia Noh</h1>
 <h3 align="center">A passionate student software from USA</h3>
-
+<img align ="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.L6ooDldvgY3xPncqGcGs1QAAAA?rs=1&pid=ImgDetMain">
 - 🌱 I’m currently learning **computer science and software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lydianoh-tech](https://github.com/lydianoh-tech)
